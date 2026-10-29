@@ -1,6 +1,6 @@
 I'm the founder of [ConstructScout](https://constructscout.com), an AI sales agent that helps construction suppliers find and win jobs. Before that, I spent three years as a software engineer on the platform infrastructure team at Veeva. I have a bachelor's and master's in computer science from the University of San Francisco.
 
-Most of my code is in private repos. Some things I've built:
+Some things I've built:
 
 - [Black Lager](https://github.com/black-lager): encrypted off-grid text messaging over Meshtastic radios, with public key certificates. Best Master's Project at USF.
 - [Wardell](https://wardell.io): a daily NBA player guessing game.
