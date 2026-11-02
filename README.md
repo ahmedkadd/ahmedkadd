@@ -9,5 +9,3 @@ I'm the founder and CEO of [ConstructScout](https://constructscout.com), the AI 
 - [24 Hour Fitness spam, fixed with one line of JavaScript](https://ahmedkaddoura.com/projects/24hf-unsubscribe/): reached #1 on the Hacker News front page.
 - [Ch3ss](https://github.com/jonrahoi/ch3ss): 3D chess inside a cube.
 - [Cafe 400](https://400.cafe): the Levantine trick-taking card game, in the browser.
-
-[ahmedkaddoura.com](https://ahmedkaddoura.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-kaddoura/) · [X](https://x.com/AhmedKaddoura)
