@@ -2,7 +2,7 @@ I'm the founder and CEO of [ConstructScout](https://constructscout.com), the AI 
 
 ## Projects
 
-- [Black Lager](https://github.com/black-lager): radio mesh text messaging with public key certificates. Received the Graduate Team Award, USF Computer Science Department.
+- [Black Lager](https://github.com/black-lager): radio mesh text messaging with public key certificates. Won the Graduate Team Award from the University of San Francisco's Computer Science Department.
 - [BART Platform Sign Accuracy](https://ahmedkaddoura.com/bart-signs/): an internal tool that showed BART when its platform signs were inaccurate.
 - [BrainRunner](https://devpost.com/software/brainrunner): an endless runner you control with your brain. Won the device vertical at HackSC 2021.
 - [Wardell](https://wardell.io): a daily NBA player guessing game.
