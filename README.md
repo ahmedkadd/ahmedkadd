@@ -1,4 +1,4 @@
-I'm the founder of [ConstructScout](https://constructscout.com), an AI sales platform for construction. Previously, I spent three years as a software engineer on the platform infrastructure team at Veeva Systems. I have a bachelor's and master's in computer science from the University of San Francisco.
+I'm the founder and CEO of [ConstructScout](https://constructscout.com), the AI sales agent for construction site services. Previously, I spent three years as a software engineer on the platform infrastructure team at Veeva Systems, building cloud software for the life sciences industry. I have a bachelor's and master's in computer science from the University of San Francisco.
 
 Projects:
 
